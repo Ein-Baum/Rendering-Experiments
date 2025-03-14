@@ -10,5 +10,6 @@ The grass is created, by discarding fragments in higher quad layers, by testing,
 Viewproj is just the view matrix premultiplied with the projection matrix, and I am sorry for the wind displacement math :] <br>
 
 ### YouTube Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XnnvZ8KpKrs?si=Is6y8GmZIgscb4o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Youtube Demo](https://img.youtube.com/vi/XnnvZ8KpKrs/0.jpg)](https://www.youtube.com/watch?v=XnnvZ8KpKrs "Youtube Demo")
+
 ---
